@@ -1,5 +1,6 @@
 # 2048
 Oyunu isteğe bağlı oynayabilir veya script kodu çalıştırabilirsiniz. Test amaçlıdır.
+
 [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024) tabanlı küçük bir klon, [Saming'in 2048](http://saming.fr/p/2048/) oyununa dayanıyor (bu da bir klon).
 
 Sadece eğlence için yapılmıştır. [Buradan oynayabilirsiniz!](http://gabrielecirulli.github.io/2048/)
